@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1722706442 source:c:\users\siddhartha\onedrive\desktop\c-dsa\triplets.c
+	<stdio.h>
+
+1722706835 source:c:\users\siddhartha\onedrive\desktop\c-dsa\second\main.c
+	<stdio.h>
+	<stdlib.h>
+
