@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1722672208 source:c:\users\siddhartha\onedrive\desktop\c-dsa\myfunc\myfunc.c
+	<stdio.h>
+
+1722672246 source:c:\users\siddhartha\onedrive\desktop\c-dsa\sample5\main.c
+	<stdio.h>
+	<stdlib.h>
+
